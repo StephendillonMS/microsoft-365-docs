@@ -113,15 +113,17 @@ All admin setting updates may take up to 24 hours to reflect any changes.
 
 For Global admins only:
 
-1. In the admin center, go to **Settings** > **Org settings**.
+1. In the admin center, go to the Home page Nav bar and select the **Copilot** menu.
 
-2. On the Copilot page, select **Improved responses with web content in Copilot for Microsoft 365**.
+2. On the Copilot page, go to the **Settings** menu.
+   
+4. select **Improved responses with web content in Copilot for Microsoft 365**.
 
-3. Select **Change**.
+5. Select **Change**.
 
-4. Unselect the checkbox for **Allow Copilot to improve responses with web content**.
+6. Unselect the checkbox for **Allow Copilot to improve responses with web content**.
 
-5. Select **Save**.
+7. Select **Save**.
 
 :::image type="content" source="media/copilot-improved-responses.png" alt-text="Screenshot showing the improved responses toggle enabled for Copilot for Microsoft 365." lightbox="media/copilot-improved-responses.png":::
 
